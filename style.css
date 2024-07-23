@@ -1,0 +1,78 @@
+.one{
+    background-color: #1F2937;
+    padding: 15px;
+    padding-left: 85px;
+    padding-right: 85px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+}
+.three{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.four{
+    display: flex;
+    gap: 10px;
+    font-size: 18px;
+    color: #F9FAF8;
+}
+.five{
+    display: flex;
+    justify-content: space-between;
+}
+.six{
+    width: 100%;
+}
+.seven{
+    display: flex;
+    gap: 25px;
+    padding-left: 175px;
+    padding-right: 175px;
+}
+.seven img{
+    height: 250px;
+    width: 100%;
+}
+.eight{
+    background-color: #E5E7EB;
+    padding: 175px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 100px;
+}
+.nine{
+    background-color: #3882F6;
+    margin: 85px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+}
+.ten{
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.last{
+    background-color: #1F2937;
+    padding: 15px;
+    padding-left: 37.5%;
+    color: whitesmoke;
+}
+.five button{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 5px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-collapse: collapse;
+}
+.ten button{
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+    color: #E5E7EB;
+    border-radius: 5px;
+    background-blend-mode: color;
+}
